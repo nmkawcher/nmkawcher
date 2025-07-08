@@ -68,8 +68,35 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nmkawcher&theme=default" />
 </p>
 
----
+### 🚀 Featured Projects
 
+> ⚠️ Some of my best projects are under NDA and cannot be publicly shared here. Below are apps available on Play Store and App Store.
+
+#### 📍 Kothay – Real-Time Location Tracker
+- 🔗 [Play Store](https://play.google.com/store/apps/details?id=dev.kothay.app&hl=en)
+- Real-time GPS tracking with offline order support, background location sync  
+- *Flutter, Firebase, FCM, Rest API, Background Service, Custom Location Services, Getx*
+
+#### 💸 Belyfted Remit – Global Money Transfer
+- 🔗 [Play Store](https://play.google.com/store/apps/details?id=com.belyfted&hl=en)  
+- 🔗 [App Store](https://apps.apple.com/us/app/belyfted-remit-money-transfer/id1611496688)
+- Cross-border remittance with live exchange rates and KYC compliance  
+- *Flutter, Rest API, FCM, Getx*
+
+#### 💰 AmourPay – Digital Wallet
+- 🔗 [Play Store](https://play.google.com/store/apps/details?id=com.amourtrust.amourpayuser&hl=en)
+- Wallet app supporting payments, send money, qr scanning, add money, transfers, and top-ups  etc.
+- *Flutter, FCM, Rest API, QR Payments, Localization, RTL*
+
+#### 🛍️ Waalaa – Digital Wallet App
+- 🔗 [Play Store](https://play.google.com/store/apps/details?id=dev.waalaa.com&hl=en)
+- Wallet app supporting payments, send money, qr scanning, add money, transfers, and top-ups  etc. 
+- *Flutter, REST API, Firebase, Getx, Localization*
+
+#### 🎨 Mixtura – Digital Banking
+- 🔗 [App Store](https://apps.apple.com/kw/app/tarjeta-mixtura/id6476163379?platform=iphone)
+- Manage digital banking system on iOS  
+- *Flutter, FCM, RTL, Localization, Getx*
 
 ---
 
